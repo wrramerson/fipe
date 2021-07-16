@@ -1,6 +1,6 @@
 <?php
 
-use DeividFortuna\Fipe\FipeCarros;
+use Wrramerson\Fipe\FipeCarros;
 
 $marcas = FipeCarros::getMarcas();
 
